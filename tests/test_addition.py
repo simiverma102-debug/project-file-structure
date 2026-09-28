@@ -1,4 +1,5 @@
-import addition
+#from calculator.addition import perform_operation
+import calculator.addition as addition
 
 def test_addition():
     # Assert
